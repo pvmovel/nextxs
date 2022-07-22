@@ -30,38 +30,6 @@
       "email": "lupemunoz@netbook.com",
       "phone": "+1 (968) 426-2962",
       "address": "447 Knickerbocker Avenue, Loma, Kentucky, 8015"
-    },
-    {
-      "id": "62d9f0f1cdd99655f211689b",
-      "name": "Katherine Mejia",
-      "company": "NAXDIS",
-      "email": "katherinemejia@naxdis.com",
-      "phone": "+1 (802) 477-3771",
-      "address": "577 Kane Place, Movico, Idaho, 2488"
-    },
-    {
-      "id": "62d9f0f125b11532f51d8e6b",
-      "name": "Kinney Massey",
-      "company": "KINDALOO",
-      "email": "kinneymassey@kindaloo.com",
-      "phone": "+1 (983) 519-3355",
-      "address": "150 Carlton Avenue, Edgewater, Maine, 6532"
-    },
-    {
-      "id": "62d9f0f13113e81ad6d6b158",
-      "name": "Robbins Cash",
-      "company": "VIASIA",
-      "email": "robbinscash@viasia.com",
-      "phone": "+1 (804) 526-3027",
-      "address": "518 Neptune Court, Moquino, Vermont, 2256"
-    },
-    {
-      "id": "62d9f0f130c11b63585455da",
-      "name": "Tami Pratt",
-      "company": "JUMPSTACK",
-      "email": "tamipratt@jumpstack.com",
-      "phone": "+1 (864) 508-3392",
-      "address": "891 Prospect Street, Coalmont, Connecticut, 950"
-    },
+    }
  ]
 }
